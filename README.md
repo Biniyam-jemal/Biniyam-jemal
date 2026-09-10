@@ -23,7 +23,7 @@ and backend logic to authentication, payments, containerization, and deployment.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,9 +48,9 @@ and backend logic to authentication, payments, containerization, and deployment.
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects
 
-## 🎓 Capital Training
+## Capital Training
 
 A full-stack online training platform built with **Django**, designed
 around the experience of modern online learning platforms.
